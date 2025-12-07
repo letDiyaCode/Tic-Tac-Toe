@@ -33,7 +33,3 @@ Play with a friend and see who wins — ❌ or ⭕!
 4. Click on the squares to mark your move  
 5. The game declares the winner or a draw  
 6. Click **New Game** to play again  
-
----
-
-## 📂 Folder Structure
